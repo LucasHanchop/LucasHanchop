@@ -13,8 +13,9 @@
   <img align="center" alt="LKS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LKS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LKS-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="LKS-Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
-  <img align="center" alt="LKS-Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+  <img align="center" alt="LKS-NestJS" height="30" width="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
+  <img align="center" alt="LKS-NodeJS" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+  <img align="center" alt="LKS-PHP" height="30" width="40" src="https://www.svgrepo.com/show/303656/php-logo.svg">
 </div>
 
 ##
