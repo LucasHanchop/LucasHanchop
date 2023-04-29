@@ -14,6 +14,7 @@
   <img align="center" alt="LKS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LKS-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="LKS-Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
+  <img align="center" alt="LKS-Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
 </div>
 
 ##
